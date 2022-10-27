@@ -1,5 +1,6 @@
-<!--Resource: "https://github.com/microsoft/vscode"-->
-<!--Resource: "https://coding-boot-camp.github.io/full-stack/githubprofessional-readme-guide"-->
+<!--Modeled from: "https://github.com/microsoft/vscode"-->
+<!--Modeled from: "https://coding-boot-camp.github.io/full-stack/githubprofessional-readme-guide"-->
+
 
 # Ego
 
@@ -26,6 +27,13 @@ Ego is an [OAuth 2.0](https://oauth.net/2/) and [OpenID Connect](https://auth0.c
 
 <!--What problem does it solve?-->
 
+<!--How does it solve this problem-->
+
+
+---
+<br />
+
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -44,7 +52,7 @@ For detailed instructions visit the [Overture Ego Installation guide](https://ww
 Instructions and examples for use. 
 
 ```
-Include screenshots as needed.
+Include screenshots and scripts as needed.
 ```
 
 <!-- Optional
