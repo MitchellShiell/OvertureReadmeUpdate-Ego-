@@ -29,11 +29,6 @@ Ego is an [OAuth 2.0](https://oauth.net/2/) and [OpenID Connect](https://auth0.c
 
 <!--How does it solve this problem-->
 
-
----
-<br />
-
-
 ## Table of Contents
 
 - [Installation](#installation)
