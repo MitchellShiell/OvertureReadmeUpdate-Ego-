@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/badge/chat-on%20slack-blue">](http://slack.overture.bio)
 
-This Overture repository is where we, the [OICR Genome Informatics Team](https://softeng.oicr.on.ca/team/), develop the Ego authentication microservice. Overture is a collection of open-source, extendable solutions for big-data genomic science. <!--Optional: Not only do we work on code issues here, we also publish our ... roadmap ... plans.--> Our source code is available to the general public under the [gpl-v3.0](LICENSE.txt) license.
+This Overture repository is where we, the [OICR Genome Informatics Team](https://softeng.oicr.on.ca/team/), develop the Ego authentication & authorization microservice. Overture is a collection of open-source, extendable solutions for big-data genomic science. <!--Optional: Not only do we work on code issues here, we also publish our ... roadmap ... plans.--> Our source code is available to the general public under the [gpl-v3.0](LICENSE.txt) license.
 
 <!--![](https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png)-->
 
