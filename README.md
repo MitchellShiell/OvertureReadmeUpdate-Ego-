@@ -2,7 +2,7 @@
 
 <br />
 
-<a href="https://www.overture.bio/"><img src="Overture_logo.png" width="66%"></a>
+<a align="center" href="https://www.overture.bio/"><img src="Overture_logo.png" width="66%"></a>
 
 <br />
 
