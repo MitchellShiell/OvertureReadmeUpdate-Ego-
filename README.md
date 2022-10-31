@@ -62,12 +62,6 @@ spring.security.oauth2.client.registration.google.clientSecret: "<insert-provide
 docker-compose -f docker-compose-all.yml up 
 ```
 
-*You will need to wait for all the services to boot up, to watch the progress you can type the following into a seperate terminal*
-
-```
-watch -n 2 docker service
-```
-
 **4.** Ego requires seed data to authorize the Ego UI as a client. 
 
 ```
