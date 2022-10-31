@@ -71,7 +71,7 @@ docker exec ego_postgres_1  psql -h localhost -p 5432 -U postgres -d ego --comma
 
 *Alternatively if you have ```Make``` installed you can run  ```make init-db```*
 
-**5.** Access the Ego UI through ```http://localhost:8080/ego-ui```
+**5.** You can now access the Ego UI through ```http://localhost:8080/ego-ui```
 - This will require your google sign in 
 - Once signed in you will have access to the admin dashboard (image above).
 - The Ego swagger ui can be located at ```http://localhost:8080/swagger-ui.html```
