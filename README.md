@@ -45,7 +45,7 @@ While each component can be deployed independently within any given software arc
 
 Here you will find a quick start guide to getting a dockerized version of Ego working. To setup a fully functional Ego application see our [setup section](#setup) below.
 
-1. Set up a google oauth client app; 
+**1.** Set up a google oauth client app; 
 - [summary of steps required linked here](https://www.overture.bio/documentation/ego/installation/prereq/#google). 
 - Use the following redirect URI: ```http://localhost:8081/oauth/code/google```
 
