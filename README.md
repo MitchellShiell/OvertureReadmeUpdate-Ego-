@@ -62,7 +62,7 @@ spring.security.oauth2.client.registration.google.clientSecret: "<insert-provide
 docker-compose -f docker-compose-all.yml up 
 ```
 
-***You will need to wait for all the services to boot up, to watch the progress you can type the following into a seperate terminal***
+*You will need to wait for all the services to boot up, to watch the progress you can type the following into a seperate terminal*
 
 ```
 watch -n 2 docker service
@@ -74,7 +74,7 @@ watch -n 2 docker service
 docker exec ego_postgres_1  psql -h localhost -p 5432 -U postgres -d ego --command "INSERT INTO EGOAPPLICATION (name, clientId, clientSecret, redirectUri, description, status, errorredirecturi) VALUES ('ego ui', 'ego-ui', 'secret', 'http://localhost:8080/', '...', 'APPROVED', 'http://localhost:8080/error') on conflict do nothing"
 ```
 
-***Alternatively if you have ```Make``` installed you can run  ```make init-db```***
+*Alternatively if you have ```Make``` installed you can run  ```make init-db```*
 
 **5.** Access the Ego UI through ```http://localhost:8080/ego-ui```
 - This will require your google sign in 
