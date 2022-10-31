@@ -33,6 +33,7 @@ While each component can be deployed independently within any given software arc
 
 ## Table of Contents
 
+- [Quick Start](#quickstart)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contribution](#how-to-contribute)
