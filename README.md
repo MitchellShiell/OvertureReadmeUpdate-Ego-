@@ -1,6 +1,6 @@
 <br />
 
-<p align="center"><a href="https://www.overture.bio/"><img src="Overture_logo.png" width="66%"></a></p>
+<p align="center"><a target="_blank" href="https://www.overture.bio/"><img src="Overture_logo.png" width="66%"></a></p>
 
 <br />
 
