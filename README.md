@@ -49,7 +49,7 @@ This is a step-by-step tutorial for setting up a dockerized version of Ego. See 
 - [summary of steps required linked here](https://www.overture.bio/documentation/ego/installation/prereq/#google). 
 - Use the following redirect URI: ```http://localhost:8081/oauth/code/google```
 
-**2.** Update  ```docker-compose-all.yml``` with the provided client id and secret 
+**2.** Clone or Download the repository and update the  ```docker-compose-all.yml``` file with the provided client id and secret.
 
 ```
 spring.security.oauth2.client.registration.google.clientId : "<insert-provided-client-Id>"
