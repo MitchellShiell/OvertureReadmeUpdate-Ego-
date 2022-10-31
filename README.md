@@ -43,7 +43,7 @@ While each component can be deployed independently within any given software arc
 
 ## Quick Start
 
-This is a step-by-step tutorial for setting up a dockerized version of Ego. For a full setup guide, see our [setup section](#setup) below.
+This is a step-by-step tutorial for setting up a dockerized version of Ego. See our [setup section](#setup) below for a comprehensive setup tutorial.
 
 **1.** Set up a google oauth client app; 
 - [summary of steps required linked here](https://www.overture.bio/documentation/ego/installation/prereq/#google). 
