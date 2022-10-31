@@ -84,7 +84,7 @@ docker exec ego_postgres_1  psql -h localhost -p 5432 -U postgres -d ego --comma
 
 ## Setup
 
-For more information please see the documentation linked below:
+Please see the documentation linked below:
 
 - [Setup Prerequisites](https://www.overture.bio/documentation/ego/installation/prereq/)
 - [Installation](https://www.overture.bio/documentation/ego/installation/installation/)
@@ -93,7 +93,7 @@ For more information please see the documentation linked below:
 
 ## Usage
 
-For more information please see the documentation linked below:
+Please see the documentation linked below:
 
 - [Using the Admin UI](https://www.overture.bio/documentation/ego/user-guide/admin-ui/)
 - [Using the API](https://www.overture.bio/documentation/ego/user-guide/api/)
