@@ -56,13 +56,13 @@ spring.security.oauth2.client.registration.google.clientId : "<insert-provided-c
 spring.security.oauth2.client.registration.google.clientSecret: "<insert-provided-clientSecret>"
 ```
 
-**3.** Run docker compose
+**3.** Run docker compose from your CLI
 
 ```
 docker-compose -f docker-compose-all.yml up 
 ```
 
-**4.** Ego requires seed data to authorize the Ego UI as a client. 
+**4.** Ego will require seed data to authorize the Ego UI as a client. 
 
 ```
 docker exec ego_postgres_1  psql -h localhost -p 5432 -U postgres -d ego --command "INSERT INTO EGOAPPLICATION (name, clientId, clientSecret, redirectUri, description, status, errorredirecturi) VALUES ('ego ui', 'ego-ui', 'secret', 'http://localhost:8080/', '...', 'APPROVED', 'http://localhost:8080/error') on conflict do nothing"
