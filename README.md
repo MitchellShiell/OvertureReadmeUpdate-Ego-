@@ -15,8 +15,6 @@ We (the [OICR Genome Informatics Team](https://softeng.oicr.on.ca/team/)) develo
 
 ## Ego - Authentication & Authorization
 
-<br />
-
 <p align="center"><img alt="Ego in action" src="https://www.overture.bio/static/screenshot-21fc2cfc0ac1c3fd9bd7e62196477554.png"></p>
 
 Access to sensitive and valuable information necessitates complex and secure user authentication and authorization methods. [Ego](https://www.overture.bio/products/ego/)  simplifies user management by providing a secure system to authenticate and authorize users of your application. 
@@ -26,8 +24,6 @@ Access to sensitive and valuable information necessitates complex and secure use
 Ego is [OAuth 2.0](https://oauth.net/2/) and [OpenID Connect](https://auth0.com/docs/authenticate/protocols/openid-connect-protocol) compliant. It is written in JAVA and uses [Sprint Boot](https://spring.io/projects/spring-boot) and [Spring Security Frameworks](https://spring.io/projects/spring-security). Because it uses [JSON Web Tokens (JWT)](https://jwt.io/) for stateless authorization, it can scale to accommodate many users. See our thorough [documentation](https://www.overture.bio/documentation/ego/) for further details. 
 
 ## Related Products 
-
-<br />
 
 <p align="left" ><img alt="Overture overview" src="https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png"></p>
 
