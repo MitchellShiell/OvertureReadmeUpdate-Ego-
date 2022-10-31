@@ -4,6 +4,8 @@
 
 <br />
 
+<!-- Replace slack with discourse once setup -->
+
 [<img src="https://img.shields.io/badge/chat-on--slack-blue">](http://slack.overture.bio) 
 [<img src="https://img.shields.io/badge/License-gpl--v3.0-blue">](https://github.com/overture-stack/ego/blob/develop/LICENSE)
 
