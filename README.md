@@ -49,34 +49,34 @@ Here you will find a quick start guide to getting a dockerized version of Ego wo
 - [summary of steps required linked here](https://www.overture.bio/documentation/ego/installation/prereq/#google). 
 - Use the following redirect URI: ```http://localhost:8081/oauth/code/google```
 
-2. Update  ```docker-compose-all.yml``` with the provided client id and secret 
+**2.** Update  ```docker-compose-all.yml``` with the provided client id and secret 
 
 ```
 spring.security.oauth2.client.registration.google.clientId : "<insert-provided-client-Id>"
 spring.security.oauth2.client.registration.google.clientSecret: "<insert-provided-clientSecret>"
 ```
 
-3. Run docker compose
+**3.** Run docker compose
 
 ```
 docker-compose -f docker-compose-all.yml up 
 ```
 
-You will need to wait for all the services to boot up, to watch the progress you can type the following into a seperate terminal
+***You will need to wait for all the services to boot up, to watch the progress you can type the following into a seperate terminal***
 
 ```
 watch -n 2 docker service
 ```
 
-4. Ego requires seed data to authorize the Ego UI as a client. 
+**4.** Ego requires seed data to authorize the Ego UI as a client. 
 
 ```
 docker exec ego_postgres_1  psql -h localhost -p 5432 -U postgres -d ego --command "INSERT INTO EGOAPPLICATION (name, clientId, clientSecret, redirectUri, description, status, errorredirecturi) VALUES ('ego ui', 'ego-ui', 'secret', 'http://localhost:8080/', '...', 'APPROVED', 'http://localhost:8080/error') on conflict do nothing"
 ```
 
-Alternatively if you have ```Make``` installed you can run  ```make init-db```
+***Alternatively if you have ```Make``` installed you can run  ```make init-db```***
 
-5. Access the Ego UI through ```http://localhost:8080/ego-ui```
+**5.** Access the Ego UI through ```http://localhost:8080/ego-ui```
 - This will require your google sign in 
 - Once signed in you will have access to the admin dashboard (image above).
 - The Ego swagger ui can be located at ```http://localhost:8080/swagger-ui.html```
