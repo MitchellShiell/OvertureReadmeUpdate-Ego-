@@ -51,7 +51,7 @@ For more information please see the documentation linked below:
 
 
 
-<!--
+
 
 ## Quick Start
 
@@ -102,8 +102,6 @@ Alternatively if you have ```Make``` installed you can run  ```make init-db```
 - The Ego swagger ui can be located at ```http://localhost:8080/swagger-ui.html```
 
 <br />
-
--->
 
 <!--
 #### 1. Set up a database.
