@@ -13,7 +13,7 @@
 
 In this Overture repository, we (the [OICR Genome Informatics Team](https://softeng.oicr.on.ca/team/)) develop the [Ego](https://www.overture.bio/products/ego/) authentication and authorization microservice. 
 
-[Overture]((https://www.overture.bio/)) is a collection of open-source, modular solutions, designed for big-data genomic science. Our core products offer a comprehensive set of tools designed for the management, exploration and visualization of molecular and clinical data sets. Visit our [website](https://www.overture.bio/) for more information on what Overture has to offer, and check out our other projects on [GitHub](https://github.com/overture-stack/).
+[Overture](https://www.overture.bio/) is a collection of open-source, modular solutions, designed for big-data genomic science. Our core products offer a comprehensive set of tools designed for the management, exploration and visualization of molecular and clinical data sets. Visit our [website](https://www.overture.bio/) for more information on what Overture has to offer, and check out our other projects on [GitHub](https://github.com/overture-stack/).
 
 ## Ego - Authentication & Authorization
 
