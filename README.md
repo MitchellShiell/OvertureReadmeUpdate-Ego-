@@ -94,7 +94,7 @@ Please see the documentation linked below:
 
 ## Contribute
 
-* [Making a Contribition ](CONTRIBUTING.md)
+* [Making a Contribution ](CONTRIBUTING.md)
 * [Filing an issue](https://github.com/overture-stack/ego/issues)
 
 ## Feedback
