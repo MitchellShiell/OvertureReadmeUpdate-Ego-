@@ -1,3 +1,5 @@
+<!--Ego ReadMe-->
+
 <br />
 
 <p align="center"><a href="https://www.overture.bio/" target="_blank"><img src="Overture_logo.png" width="66%"></a></p>
@@ -13,7 +15,7 @@
 
 In this Overture repository, we (the [OICR Genome Informatics Team](https://softeng.oicr.on.ca/team/)) develop the [Ego](https://www.overture.bio/products/ego/) authentication and authorization microservice. 
 
-[Overture](https://www.overture.bio/) is an ensemble of open-source, modular solutions, made for big-data genomic science. Our core products work in concert to manage, explore and visualize molecular and clinical data. Visit our [website](https://www.overture.bio/) for more information on what Overture has to offer, and check out our other projects on [GitHub](https://github.com/overture-stack/).
+[Overture](https://www.overture.bio/) is an ensemble of open-source, modular solutions for big-data genomic science. Our core products work in concert to manage, explore and visualize molecular and clinical data. Visit our [website](https://www.overture.bio/) for more information on what Overture offers, and check out our other projects on [GitHub](https://github.com/overture-stack/).
 
 ## Ego - Authentication & Authorization
 
@@ -27,7 +29,7 @@ Ego is [OAuth 2.0](https://oauth.net/2/) and [OpenID Connect](https://auth0.com/
 
 <p align="left" ><img alt="Overture overview" src="https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png"></p>
 
-While each component can be deployed independently within any given software architecture our core solutions can also work in concert as an end-to-end data management system (DMS). This DMS is designed to meet the demands of modern large-scale genomic research. For more information on our DMS please see our [DMS documentation](https://www.overture.bio/documentation/dms/).
+While you can deploy each component independently within any given software architecture, our core solutions can also work in concert as an end-to-end data management system (DMS) designed to meet the needs of modern large-scale genomic research. For more information on our DMS, please see our [DMS documentation](https://www.overture.bio/documentation/dms/).
 
 
 
@@ -94,7 +96,7 @@ Please see the documentation linked below:
 
 ## Contribute
 
-* [Making a Contribution ](CONTRIBUTING.md)
+* [Making a Contribution](CONTRIBUTING.md)
 * [Filing an issue](https://github.com/overture-stack/ego/issues)
 
 ## Feedback
