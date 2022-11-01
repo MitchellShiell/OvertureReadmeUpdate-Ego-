@@ -27,7 +27,7 @@ Ego is [OAuth 2.0](https://oauth.net/2/) and [OpenID Connect](https://auth0.com/
 
 <p align="left" ><img alt="Overture overview" src="https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png"></p>
 
-While each component can be deployed independently within any given software architecture our core solutions can also work in concert as an end-to-end data management system (DMS). This DMS is designed to meet the needs of modern large-scale genomic research. For more information on our DMS please see our [DMS documentation](https://www.overture.bio/documentation/dms/) .
+While each component can be deployed independently within any given software architecture our core solutions can also work in concert as an end-to-end data management system (DMS). This DMS is designed to meet the demands of modern large-scale genomic research. For more information on our DMS please see our [DMS documentation](https://www.overture.bio/documentation/dms/).
 
 
 
