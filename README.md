@@ -13,9 +13,7 @@
 
 ## Worry Less Science More
 
-In this Overture repository, we (the [OICR Genome Informatics Team](https://softeng.oicr.on.ca/team/)) develop the [Ego](https://www.overture.bio/products/ego/) authentication and authorization microservice. 
-
-[Overture](https://www.overture.bio/) is an ensemble of open-source, modular solutions for big-data genomic science. Our core products work in concert to manage, explore and visualize molecular and clinical data. Visit our [website](https://www.overture.bio/) for more information on what Overture offers, and check out our other projects on [GitHub](https://github.com/overture-stack/).
+In this Overture repository, we (the [OICR Genome Informatics Team](https://softeng.oicr.on.ca/team/)) develop [Ego](https://www.overture.bio/products/ego/), our open-source authentication and authorization microservice. [Overture](https://www.overture.bio/) is an ensemble of modular solutions for big-data genomic science. Our core products work in concert to manage, explore and visualize molecular and clinical data. Visit our [website](https://www.overture.bio/) for more information on what Overture offers, and check out our other projects on [GitHub](https://github.com/overture-stack/).
 
 ## Ego - Secure Authentication & Authorization
 
@@ -27,7 +25,7 @@ Ego is [OAuth 2.0](https://oauth.net/2/) and [OpenID Connect](https://auth0.com/
 
 ## Related Products 
 
-<p align="left" ><img alt="Overture overview" src="https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png"></p>
+<p align="left"><img alt="Overture overview" src="https://www.overture.bio/static/124ca0fede460933c64fe4e50465b235/a6d66/system-diagram.png"></p>
 
 Overtures' modular architecture allows you to utilize and mix any of our products to fulfill your individual needs. Our core technologies, however, can also work in concert as an end-to-end data management system (DMS) designed to satisfy the needs of modern large-scale genomic research. For more information on our DMS, please see our [DMS documentation](https://www.overture.bio/documentation/dms/).
 
@@ -35,11 +33,13 @@ See the links below for additional information on our other modular solutions:
 
 |Product|Description|
 |---|---|
-|[Ego](https://www.overture.bio/products/ego/)|Stateless authorization and user management service|
+|[Ego](https://www.overture.bio/products/ego/)|A stateless authorization and user management service|
 |[Score](https://www.overture.bio/products/score/)| Transfer data quickly and easily to and from any cloud-based storage system|
 |[Song](https://www.overture.bio/products/song/)|Quickly and reliably track genome metadata scattered across multiple Cloud storage systems|
 |[Maestro](https://www.overture.bio/products/maestro/)|Organizing your distributed data into one index|
 |[Arranger](https://www.overture.bio/products/arranger/)|Organize an intuitive data search interface, complete with customizable components, tables, and search terms|
+
+<!--Additional programs?-->
 
 ## Table of Contents
 
