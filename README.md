@@ -35,7 +35,7 @@ See the links below for additional information on our other modular solutions:
 
 |Product|Description|
 |---|---|
-|[Ego](https://www.overture.bio/products/ego/)|A stateless authorization and user management service|
+|[Ego](https://www.overture.bio/products/ego/)|Stateless authorization and user management service|
 |[Score](https://www.overture.bio/products/score/)| Transfer data quickly and easily to and from any cloud-based storage system|
 |[Song](https://www.overture.bio/products/song/)|Quickly and reliably track genome metadata scattered across multiple Cloud storage systems|
 |[Maestro](https://www.overture.bio/products/maestro/)|Organizing your distributed data into one index|
